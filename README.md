@@ -1,6 +1,6 @@
 # synapse-z-beta
 
-STATUS: 🔴
+STATUS: 🟢
 
 🔴 - Down (not working)
 
